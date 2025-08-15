@@ -74,12 +74,12 @@ optional arguments:
 
 Spider voldemort.ru and save all found URLs:
 ```bash
-python aggressive_spider.py https://voldemort.ru -o voldemort_urls.txt
+python aggressive_spider.py https://example.ru -o example_urls.txt
 ```
 
 Spider neopets.com with maximum discovery:
 ```bash
-python aggressive_spider.py https://neopets.com -m 500 -t 30 -o neopets_urls.txt
+python aggressive_spider.py https://example.com -m 500 -t 30 -o example_urls.txt
 ```
 
 ## How It Works
