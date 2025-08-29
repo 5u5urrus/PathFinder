@@ -4,6 +4,10 @@
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![asyncio](https://img.shields.io/badge/async-asyncio-brightgreen.svg)](https://docs.python.org/3/library/asyncio.html)
 
+<p align="center">
+  <img src="pathfinder.png" width="100%" alt="GitBlast Banner">
+</p>
+
 PathFinder is a nice tool - a web crawler - designed for security researchers, penetration testers, and developers. It crawls the given site and finds links.
 
 ## Table of Contents
@@ -394,3 +398,6 @@ PathFinder is designed for legitimate security research, web development, and an
 - **Use Ethical Practices**: Do not use this tool for unauthorized access or malicious activities
 
 **Disclaimer**: The authors assume no responsibility for misuse of this software. Users are solely responsible for ensuring their activities comply with applicable laws and regulations.
+
+## Author
+Created by [Vahe Demirkhanyan](mailto:vahe@hackvector.io)
