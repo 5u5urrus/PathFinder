@@ -75,6 +75,12 @@ PathFinder is a high-performance web crawler written in Go, designed for securit
 
 ### Install from Source
 ```bash
+go install github.com/5u5urrus/PathFinder@latest
+```
+
+or
+
+```bash
 git clone https://github.com/5u5urrus/PathFinder.git
 cd PathFinder
 go build -o pathfinder
